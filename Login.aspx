@@ -80,7 +80,7 @@
                    
                     <p>&nbsp;</p>
 
-                    <h2>We deliver Cloud Solutions<span>Click2Cloud Community</span></h2>
+                    <h2>We deliver Cloud Solutions...<span>Click2Cloud Community</span></h2>
                     <p>Clinical Research and Innovation Office (CRIO) aims to lead, promote and coordinate research culture and activities to support the development of TTSH into a reputable world-class research centre. CRIO aligns its mission with Singapore’s emphasis on life science biomedical research. It supports the research endeavours of all the staff in TTSH.<a href="https://www.ttsh.com.sg/clinical-research-unit/">read more</a></p>
 
                 </div>
