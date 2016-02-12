@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>Tan Tock Seng Hospital - A Community of Care</title>
+    <title>Click2Cloud's OpenShift Extension</title>
     <meta name="description" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
@@ -80,7 +80,7 @@
                    
                     <p>&nbsp;</p>
 
-                    <h2>Clinical Research and Innovation Officee<span>Clinical Research Unit</span></h2>
+                    <h2>We deliver Cloud Solutions<span>Click2Cloud Community</span></h2>
                     <p>Clinical Research and Innovation Office (CRIO) aims to lead, promote and coordinate research culture and activities to support the development of TTSH into a reputable world-class research centre. CRIO aligns its mission with Singapore’s emphasis on life science biomedical research. It supports the research endeavours of all the staff in TTSH.<a href="https://www.ttsh.com.sg/clinical-research-unit/">read more</a></p>
 
                 </div>
@@ -99,7 +99,7 @@
                         <p>11 Jalan Tan Tock Seng, Singapore 308433</p>
                     </div>
                     <div class="col-md-6 align-right">
-                        <h4>A Product of Tan Tock Seng Hospital</h4>
+                        <h4>A Product of Click2Cloud Inc.</h4>
                         <p>Copyright &copy; 2014 Tan Tock Seng Hospital, Singapore</p>
                     </div>
                 </div>
